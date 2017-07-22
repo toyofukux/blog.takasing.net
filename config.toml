@@ -7,12 +7,12 @@ hasCJKLanguage = "true"
 
 [params]
     site_author = "Takashi Toyofuku"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_description = "Engineer, love music, hot spring, civilization, and snapshot."
+    location = "Tokyo, Japan"
     # Link custom assets relative to /static
     avatar = "icon.jpg"
     header_background = "header.jpg"
-    header_title = "Customizable header title"
+    header_title = "T#.log"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
