@@ -1,0 +1,23 @@
+{
+  "name": "blog.takasing.net",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "hugo",
+    "deploy": "firebase deploy --token \"$FIREBASE_TOKEN\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takasing/blog.takasing.net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takasing/blog.takasing.net/issues"
+  },
+  "homepage": "https://blog.takasing.net",
+  "devDependencies": {
+    "firebase-tools": "^3.9.1"
+  }
+}

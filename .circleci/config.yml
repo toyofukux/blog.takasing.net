@@ -4,17 +4,66 @@
 version: 2
 jobs:
   build:
+    working_directory: /home/circleci/blog.takasing.net
     docker:
-      # specify the version
       - image: circleci/golang:1.8
-      
-    working_directory: ~/takasing.net
     steps:
       - checkout
       - run:
           name: install hugo
           command: go get -v github.com/gohugoio/hugo
+      - run:
+          name: build my site
+          command: hugo
+      - save_cache:
+          key: public-{{ epoch }}
+          paths:
+            - ./public
 
-      # specify any bash command here prefixed with `run: `
-      #- run: go get -v -t -d ./...
-      #- run: go test -v ./...
+  approve:
+    working_directory: /home/circleci/blog.takasing.net
+    machine: true
+    steps:
+      - run:
+          name: noope
+          command: echo noope
+
+  deploy:
+    working_directory: /home/circleci/blog.takasing.net
+    docker:
+      - image: node:6.11.1
+    steps:
+      - checkout
+      - restore_cache:
+          key: public
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: install tools
+          command: npm install
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: deploy my site
+          command: npm run deploy
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - approve:
+          type: approval
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
+      - deploy:
+          requires:
+            - approve
+          filters:
+            branches:
+              only: master
