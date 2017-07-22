@@ -1,0 +1,34 @@
+baseURL = "https://blog.takasing.net/"
+languageCode = "en-us"
+title = "T#.log"
+paginate = 10
+theme = "hugo-minimalist-theme"
+hasCJKLanguage = "true"
+
+[params]
+    site_author = "Takashi Toyofuku"
+    site_description = "The awesome blog of John Doe."
+    location = "Earth"
+    # Link custom assets relative to /static
+    avatar = "icon.jpg"
+    header_background = "header.jpg"
+    header_title = "Customizable header title"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "toyo_takasing"
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "takasing"
+    gplus     = ""
