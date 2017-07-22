@@ -1,0 +1,1 @@
+# blog.takasing.net
