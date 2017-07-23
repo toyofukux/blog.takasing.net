@@ -13,7 +13,7 @@ hasCJKLanguage = "true"
     avatar = "icon.jpg"
     header_background = "header.jpg"
     header_title = "T#.log"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Powered by [Hugo](https://gohugo.io)."
     custom_css = []
     custom_js  = []
 
