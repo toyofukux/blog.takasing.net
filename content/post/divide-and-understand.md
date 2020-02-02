@@ -1,7 +1,6 @@
 ---
 title: "分けることと分かること"
 date: 2020-02-01T23:07:30+09:00
-draft: true
 Tags: ["Skill", "Memo"]
 ---
 
