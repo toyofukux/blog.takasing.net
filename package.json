@@ -4,6 +4,8 @@
   "description": "",
   "scripts": {
     "build": "hugo",
+    "reauth": "firebase login --reauth",
+    "token": "firebase login:ci",
     "deploy": "firebase deploy --token \"$FIREBASE_TOKEN\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
