@@ -31,7 +31,7 @@ jobs:
   deploy:
     working_directory: /home/circleci/blog.takasing.net
     docker:
-      - image: node:6.11.1
+      - image: node:latest
     steps:
       - checkout
       - restore_cache:
