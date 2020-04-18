@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "build": "hugo",
+    "build:dev": "hugo server -D",
     "reauth": "firebase login --reauth",
     "token": "firebase login:ci",
     "deploy": "firebase deploy --token \"$FIREBASE_TOKEN\"",
