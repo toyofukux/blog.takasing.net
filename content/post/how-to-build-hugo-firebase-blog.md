@@ -1,11 +1,9 @@
 ---
 title: "Hugo+Firebase+CircleCIで独自ドメインの個人ブログをさっと構築"
 date: 2017-07-23T22:49:08+09:00
-Categories: ["Development","GoLang","Firebase","CircleCI"]
+Categories: ["development"]
 Description: ""
-Tags: ["Development","GoLang","Firebase","CircleCI"]
-date: "2017-04-19T20:15:30+09:00"
-menu: "main"
+Tags: ["GoLang","Firebase","CircleCI"]
 ---
 
 ## なんで構築する必要があったか

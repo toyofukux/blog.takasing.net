@@ -1,9 +1,9 @@
 ---
 title: "モニターアームを買った"
 date: 2020-04-18T21:25:16+09:00
-Categories: ["Home"]
+Categories: ["memo"]
 Description: ""
-Tags: ["Memo"]
+Tags: ["home", "desk"]
 ---
 
 これまでもWFH(Work from Home)結構してたけど、机の上が汚いなーと思う頻度が上がったことと、ここ最近フィルムフックで部屋のものを浮かせていくことがマイブームになっていたので、ディスプレイを浮かそうと思い立ったのであった(遠い目)。

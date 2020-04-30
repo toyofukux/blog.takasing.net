@@ -1,9 +1,8 @@
 ---
 title: "スタートアップに転職して(2ヶ月前に)1年が経ったので振り返る"
 date: 2017-07-29T18:17:22+09:00
-Categories: ["Development"]
+Categories: ["memo"]
 Description: ""
-Tags: ["BEC Inc.", "Development", "Memo"]
 ---
 
 ## BEC Inc.に入って(2ヶ月前の6/1に)1年が経ちました
