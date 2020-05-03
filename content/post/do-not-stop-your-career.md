@@ -3,6 +3,8 @@ title: "キャリアを止めるな"
 date: 2020-04-21T10:45:13+09:00
 Categories: ["memo"]
 Tags: ["career"]
+Description: "この度転職することになったので書く。タイトルでは強めの言葉を使ったが、僕自信、人に自慢できるようなキャリアを歩んできているわけではない。"
+images: ["/do_not_stop_your_career/business_kyouryoku.png"]
 ---
 
 ## はじめに

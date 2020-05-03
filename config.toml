@@ -7,7 +7,8 @@ hasCJKLanguage = "true"
 
 [params]
     site_author = "Takashi Toyofuku"
-    site_description = "Engineer, love music, hot spring, civilization, and snapshot."
+    site_description = "Engineer, love music, hot spring."
+    images = ["icon.jpg"]
     location = "Tokyo, Japan"
     # Link custom assets relative to /static
     avatar = "icon.jpg"
