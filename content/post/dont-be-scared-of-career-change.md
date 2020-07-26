@@ -1,9 +1,10 @@
 ---
 title: "転職怖くないよ話"
 date: 2020-07-24T20:12:36+09:00
-draft: true
-Description: ""
+Description: "最近周りの人で転職を考えたりする人が多いので書いておく。最初に言っておくと、転職は怖くないし、あなたを求めている会社は結構ある"
 images: ["/dont_be_scared_of_career_change/fukidashi_tensyoku_man.png"]
+Categories: ["memo"]
+Tags: ["career"]
 ---
 
 ![転職](/dont_be_scared_of_career_change/fukidashi_tensyoku_man.png)
