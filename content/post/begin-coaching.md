@@ -1,7 +1,10 @@
 ---
 title: "「コーチングを教える会」に参加してコーチング体験してきた"
 date: 2020-07-28T11:25:46+09:00
-draft: true
+Description: "先週と先々週末を使って3日間で「コーチングを教える会」に参加してコーチングの基礎を学びました"
+images: ["/begin_coaching/job_taiiku_man.png"]
+Categories: ["memo"]
+Tags: ["coaching"]
 ---
 
 先週と先々週末を使って3日間で「コーチングを教える会」に参加してコーチングの基礎を学びました。  
