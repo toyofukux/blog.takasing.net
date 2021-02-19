@@ -3,7 +3,7 @@ title: "2021年の抱負とやること、そのための準備"
 date: 2021-01-02T16:58:00+09:00
 Description: "2021年がんばろ"
 images: ["/2021_beginning/shinnen_aisatsu_man.png"]
-Categories: ["life"]
+Categories: ["essay"]
 Tags: [""]
 ---
 

@@ -3,7 +3,7 @@ title: "やっとお気に入りの鍼を見つけて、肩こりを倒しかけ
 date: 2020-08-06T21:17:30+09:00
 Description: "前前職時代に肩こりを発症(自覚)して、そこからずっと先月まできつかったけど、最近やっと通えるお気に入りの鍼を見つけて解消されつつある話をする"
 images: ["/bstoic_acupuncture/medical_harikyu_man.png"]
-Categories: ["memo"]
+Categories: ["life"]
 Tags: ["physical"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "4年間務めたスタートアップを退職しました"
 date: 2020-06-22T23:25:00+09:00
-Categories: ["memo"]
+Categories: ["essay"]
 Tags: ["career"]
 ---
 

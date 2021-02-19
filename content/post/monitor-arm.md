@@ -1,7 +1,7 @@
 ---
 title: "モニターアームを買った"
 date: 2020-04-18T21:25:16+09:00
-Categories: ["memo"]
+Categories: ["life"]
 Description: ""
 Tags: ["home", "desk"]
 ---

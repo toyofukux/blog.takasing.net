@@ -1,7 +1,7 @@
 ---
 title: "目指すキャリアと技術スタックのギャップを埋めていきたい"
 date: 2020-07-11T23:28:55+09:00
-Categories: ["memo"]
+Categories: ["essay"]
 Tags: ["career"]
 Description: "今年の3月くらいから自分のキャリアについて(やっと)深く考えるようになってきた。最近少しずつ方向性が見えてきたので書いておく。"
 images: ["/gap_of_engineering/sokukou_seisou.png"]
