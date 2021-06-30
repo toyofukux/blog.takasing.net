@@ -2,7 +2,7 @@
 title: "✅「外資系コンサルが教えるプロジェクトマネジメント」"
 date: 2021-05-09T18:25:15+09:00
 Categories: ["essay"]
-Tags: ["book"]
+Tags: ["book", "PdM"]
 images: ["/project_management_book/manager_man.png"]
 ---
 
