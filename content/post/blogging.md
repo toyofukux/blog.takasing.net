@@ -25,7 +25,7 @@ Categories: ["essay"]
 ## 会社で書く場合は引継ぎ目的で書く
 
 完全に引き継ぎ目的で書く。
-[初めての新規事業プロダクトマネジメント](first-startup-project-management)とか完全に引き継ぎを想定して書いていた。
+[初めての新規事業プロダクトマネジメント](/post/first-startup-project-management)とか完全に引き継ぎを想定して書いていた。
 あと、最近は Zenn にいくつか記事を書いた。
 
 [Shifter Headless で Wordpress ブロックエディタのカスタムブロックを追加する](https://zenn.dev/takasing/articles/first-custom-block)
