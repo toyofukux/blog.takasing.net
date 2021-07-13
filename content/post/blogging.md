@@ -3,9 +3,7 @@ title: "ブログの書き方"
 date: 2021-07-12T21:34:34+09:00
 Description: "ブログを書き方について"
 images: ["/blogging/blog-post-bro.png"]
-Categories: ["memo"]
-Tags: [""]
-draft: true
+Categories: ["essay"]
 ---
 
 ![トップ画像](/blogging/blog-post-bro.png)
