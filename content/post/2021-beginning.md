@@ -5,6 +5,7 @@ Description: "2021年がんばろ"
 images: ["/2021_beginning/shinnen_aisatsu_man.png"]
 Categories: ["essay"]
 Tags: ["resolution"]
+canonicalUrl: "https://www.t104fk.xyz/posts/2021-beginning"
 ---
 
 ![トップ画像](/2021_beginning/shinnen_aisatsu_man.png)

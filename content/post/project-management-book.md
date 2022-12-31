@@ -4,6 +4,7 @@ date: 2021-05-09T18:25:15+09:00
 Categories: ["essay"]
 Tags: ["book", "PdM"]
 images: ["/project_management_book/manager_man.png"]
+canonicalUrl: "https://www.t104fk.xyz/posts/project-management-book"
 ---
 
 ![トップ画像](/project_management_book/manager_man.png)

@@ -4,6 +4,7 @@ date: 2021-12-30T20:36:12+09:00
 images: ["/shopping_2021/shopping.jpg"]
 Categories: ["life"]
 Tags: ["shopping"]
+canonicalUrl: "https://www.t104fk.xyz/posts/shopping-2021"
 ---
 
 ![トップ画像](/shopping_2021/shopping.jpg)

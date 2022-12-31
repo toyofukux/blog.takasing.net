@@ -4,6 +4,7 @@ date: 2021-07-15T20:53:42+09:00
 Description: "現在進行中の新規プロジェクトにて著作権周りの交渉を行う必要があったのでまとめてみました。"
 images: ["/copyright/top.png"]
 Categories: ["note"]
+canonicalUrl: "https://www.t104fk.xyz/posts/copyright"
 ---
 
 ![トップ画像](/copyright/top.png)

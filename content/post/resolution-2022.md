@@ -4,6 +4,7 @@ date: 2022-01-30T08:35:59+09:00
 images: ["/2022_resolution/2022.jpg"]
 Categories: ["essay"]
 Tags: ["resolution"]
+canonicalUrl: "https://www.t104fk.xyz/posts/resolution-2022"
 ---
 
 ![トップ画像](/2022_resolution/2022.jpg)

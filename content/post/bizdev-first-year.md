@@ -5,6 +5,7 @@ date: 2021-11-14T14:28:08+09:00
 Categories: ["essay"]
 Tags: ["bizdev"]
 images: ["/bizdev_first_year/top.jpg"]
+canonicalUrl: "https://www.t104fk.xyz/posts/bizdev-first-year"
 ---
 
 ![トップ画像](/bizdev_first_year/top.jpg)

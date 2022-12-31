@@ -5,6 +5,7 @@ Description: "業務で新サービスのメール営業をする際にサービ
 images: ["/mailtracker/main.png"]
 Categories: ["BizDev"]
 Tags: ["SaaS", "email"]
+canonicalUrl: "https://www.t104fk.xyz/posts/mailtracker"
 ---
 
 ![main](/mailtracker/main.png)

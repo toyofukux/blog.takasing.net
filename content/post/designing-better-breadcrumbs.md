@@ -4,6 +4,7 @@ date: 2022-04-16T10:06:08+09:00
 images: ["/designing_better_breadcrumbs/top.jpg"]
 Categories: ["design"]
 Tags: ["english"]
+canonicalUrl: "https://www.t104fk.xyz/posts/designing-better-breadcrumbs"
 ---
 
 ![トップ画像](/designing_better_breadcrumbs/top.jpg)

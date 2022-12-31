@@ -4,6 +4,7 @@ date: 2017-07-29T18:17:22+09:00
 Categories: ["essay"]
 Tags: ["career"]
 Description: ""
+canonicalUrl: "https://www.t104fk.xyz/posts/look-back-my-first-year-in-bec"
 ---
 
 ## BEC Inc.に入って(2ヶ月前の6/1に)1年が経ちました

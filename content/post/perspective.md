@@ -4,6 +4,7 @@ date: 2021-08-19T11:22:42+09:00
 Description: "「視座を高く持て」と言われたことがある聞いたことある人は結構いるのではなかろうか。じゃあそれってどうすればいいの？っていうことについてインサイトを得たので書いておく。"
 images: ["/perspective/dorne_fpv.png"]
 Categories: ["essay"]
+canonicalUrl: "https://www.t104fk.xyz/posts/perspective"
 ---
 
 ![トップ画像](/perspective/dorne_fpv.png)

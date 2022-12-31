@@ -5,6 +5,7 @@ Description: "2021年明けから春頃に新規プロジェクトのプロダ�
 images: ["/first_startup_project_management/megane_hikaru_man.png"]
 Categories: ["essay"]
 Tags: ["PdM"]
+canonicalUrl: "https://www.t104fk.xyz/posts/first-startup-project-management"
 ---
 
 ![トップ画像](/first_startup_project_management/megane_hikaru_man.png)
